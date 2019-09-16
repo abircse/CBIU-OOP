@@ -1,7 +1,7 @@
 package cbiu.ac.bd;
 
 // this is a class
-public class HelloWorld {
+public class Addition {
 
     // this is a main method
     public static void main(String[] args) {
