@@ -10,6 +10,7 @@ public class Database {
         studentList = new ArrayList<>();
         studentList.add(new PojoModel("Galib",29,"Male"));
         studentList.add(new PojoModel("Abir", 29,"Male"));
+
         if (studentList.isEmpty()) {
 
             System.out.println("No data in list");
